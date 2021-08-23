@@ -9,10 +9,10 @@
     "actions": {
         "default_popup": "index.html",
         "default_icon": {
-            "16": "",
-            "32": "",
-            "48": "",
-            "128": ""
+            "16": "/images/heh.png/",
+            "32": "/images/heh.png/",
+            "48": "/images/heh.png/",
+            "128": "/images/heh.png/"
         }
     }
 }
