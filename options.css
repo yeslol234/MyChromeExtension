@@ -1,0 +1,21 @@
+*,
+html {
+    font-family: system-ui;
+}
+code {
+    font-family: monospace;
+}
+#right {
+    justify-content: right;
+}
+#left {
+    justify-content: left;
+}
+#center {
+    justify-content: center;
+}
+button {
+    background-color: #2d85f9;
+    border: solid 2px #2d85f9;
+    border-radius: 0.3em;
+}

@@ -13,6 +13,13 @@
             "32": "/images/heh.png/",
             "48": "/images/heh.png/",
             "128": "/images/heh.png/"
-        }
+        },
+        "icons": {
+            "16": "/images/heh.png/",
+            "32": "/images/heh.png/",
+            "48": "/images/heh.png/",
+            "128": "/images/heh.png/"
+        },
+        "options_page": "options.html"
     }
 }
